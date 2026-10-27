@@ -1,0 +1,14 @@
+{
+    "name": "mi-app-js",
+    "version": "1-0-0",
+    "description": "Aplicacion web ejecutada con Docker",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "5.3.0"
+    }
+
+
+}
